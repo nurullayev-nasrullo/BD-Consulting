@@ -18,7 +18,7 @@ export default function TeamPage() {
       linkedin: 'https://www.linkedin.com/in/tjuraev/',
       expertise:
         'High quality Analytics and Financial Modelling deliverables in the audit of UK TIER 1 banks and top AWM firms.',
-      image: '/Temurjon-Juraev1.jpg',
+      image: '/Temurjon-Juraev1.webp',
     },
     {
       name: 'Khusan Raymjonov',
@@ -28,7 +28,7 @@ export default function TeamPage() {
       linkedin: 'https://www.linkedin.com/in/khusan-r-8ab72310b/',
       expertise:
         'Internal controls enhancement, Delivered multiple external audit projects for FTSE 100 companies',
-      image: '/Khusan-Raymjonov.jpg',
+      image: '/Khusan-Raymjonov.webp',
     },
   ];
 
