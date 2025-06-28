@@ -276,7 +276,7 @@ export default function TeamPage() {
             >
               <div className="relative h-[300px]">
                 <Image
-                  src="london.webp"
+                  src="/london.webp"
                   alt="London Financial District"
                   fill
                   className="object-cover"
