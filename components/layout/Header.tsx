@@ -80,20 +80,20 @@ const Header = () => {
           <Link href="/" className="flex items-center space-x-3">
             <div className="relative w-10 h-10">
               <Image
-                src="/bd-logo-black11.webp"
+                src="/bd-logo-black22.png"
                 alt="BUSINESS DIPLOMAT Logo"
-                width={180}
-                height={140}
+                width={40}
+                height={40}
                 priority
                 className="object-contain"
               />
             </div>
-            {/*<span className="text-xl md:text-2xl font-bold text-[#0B3C5D]">
+            <span className="text-xl md:text-2xl font-bold text-[#0B3C5D]">
               BUSINESS DIPLOMAT
               <span className="block text-sm font-medium text-[#328CC1]">
                 Consulting Services
               </span>
-            </span>*/}
+            </span>
           </Link>
 
           {/* Desktop and Tablet Navigation */}
