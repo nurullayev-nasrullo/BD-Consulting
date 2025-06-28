@@ -12,7 +12,7 @@ const Footer = () => {
           <div className="space-y-4">
             <div className="flex items-center w-64">
               <Image
-                src="/bd-logo-white.webp"
+                src="/bd-logo-white1.webp"
                 alt="BUSINESS DIPLOMAT Logo"
                 className="object-contain"
               />
