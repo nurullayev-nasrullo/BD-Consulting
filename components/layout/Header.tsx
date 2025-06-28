@@ -82,8 +82,6 @@ const Header = () => {
               <Image
                 src="/bd-logo-black33.svg"
                 alt="BUSINESS DIPLOMAT Logo"
-                width={40}
-                height={40}
                 priority
                 className="object-contain"
               />
