@@ -82,7 +82,7 @@ const Header = () => {
               <Image
                 src="/bd-logo-black11.webp"
                 alt="BUSINESS DIPLOMAT Logo"
-                width={40}
+                width={180}
                 height={40}
                 priority
                 className="object-contain"
