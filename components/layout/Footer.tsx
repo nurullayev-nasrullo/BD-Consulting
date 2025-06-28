@@ -14,8 +14,6 @@ const Footer = () => {
               <Image
                 src="/bd-logo-white.webp"
                 alt="BUSINESS DIPLOMAT Logo"
-                width={40}
-                height={40}
                 className="object-contain"
               />
               {/*<div>
