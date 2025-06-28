@@ -78,7 +78,7 @@ const Header = () => {
       <div className="container mx-auto px-4 md:px-6">
         <div className="flex items-center justify-between">
           <Link href="/" className="flex items-center space-x-3">
-            <div className="relative w-40 h-40">
+            <div className="relative w-100 h-10">
               <Image
                 src="/bd-logo-black33.webp"
                 alt="BUSINESS DIPLOMAT Logo"
