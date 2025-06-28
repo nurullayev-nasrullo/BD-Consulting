@@ -12,18 +12,18 @@ const Footer = () => {
           <div className="space-y-4">
             <div className="flex items-center gap-3">
               <Image
-                src="/logo.png"
+                src="/bd-logo-white.webp"
                 alt="BUSINESS DIPLOMAT Logo"
                 width={40}
                 height={40}
                 className="object-contain"
               />
-              <div>
+              {/*<div>
                 <h3 className="text-xl font-bold text-white">
                   BUSINESS DIPLOMAT
                 </h3>
                 <p className="text-sm text-[#90EE90]">Consulting Services</p>
-              </div>
+              </div>*/}
             </div>
             <p className="text-gray-300">
               Transforming businesses through intelligent solutions that drive growth and innovation.
