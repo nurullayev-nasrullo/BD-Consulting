@@ -138,9 +138,9 @@ const SaaSPreview = () => {
                 </DialogContent>
               </Dialog>
               
-              <Button className="bg-white text-[#0B3C5D] hover:bg-white/90">
+              {/*<Button className="bg-white text-[#0B3C5D] hover:bg-white/90">
                 Learn More
-              </Button>
+              </Button>*/}
             </div>
           </div>
         </div>
