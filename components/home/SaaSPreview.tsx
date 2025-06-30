@@ -64,7 +64,7 @@ const SaaSPreview = () => {
           <div className="absolute inset-0 bg-gradient-to-b from-transparent to-black/70 z-10" />
           
           <img
-            src="https://images.pexels.com/photos/7688336/pexels-photo-7688336.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+            src="/demo-prevew.webp"
             alt="BUSINESS DIPLOMAT Intelligence Platform Preview"
             className="w-full h-auto object-cover"
           />
